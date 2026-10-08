@@ -1,0 +1,122 @@
+{
+  "belt": {
+    "defaults": [
+      2,
+      2,
+      15
+    ],
+    "polygon_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "MXL": {
+    "defaults": [
+      2.032,
+      0.74,
+      6.35
+    ],
+    "polygon_sha256": "dc2c9b55242188d4c5d751597bd93ad6e4603099269077425481396529477ba9"
+  },
+  "T2.5": {
+    "defaults": [
+      2.5,
+      0.6,
+      6
+    ],
+    "polygon_sha256": "ef6aea0d98b417ec9d84f79780425b1da166960672918ff419e85e618cd786d9"
+  },
+  "T5": {
+    "defaults": [
+      5,
+      1,
+      10
+    ],
+    "polygon_sha256": "28b3e44a9ec79e606c5ca76849a8300049b29bb06068a15dcf0a2a1c8f1d6113"
+  },
+  "T10": {
+    "defaults": [
+      10,
+      2,
+      16
+    ],
+    "polygon_sha256": "e302582bca8432931eacb894cd2d3e545fe83cc0b356a189f6cf6388880ecda2"
+  },
+  "GT2_2mm": {
+    "defaults": [
+      2,
+      0.76,
+      6
+    ],
+    "polygon_sha256": "343cf1d9548f1f60540e6fb1934f7f23963ebba4d8efbb5f709fd71d846cc5be"
+  },
+  "GT2_3mm": {
+    "defaults": [
+      3,
+      1.27,
+      9
+    ],
+    "polygon_sha256": "c26a2eb7129ff6ca6dfb6abd98e39205d041c4688836dc3b70c470806605f688"
+  },
+  "GT2_5mm": {
+    "defaults": [
+      5,
+      1.88,
+      15
+    ],
+    "polygon_sha256": "ef9cb4b1efa9af401bd831baf23cfd1f003569ae853e7da7e4af5348326ed4e2"
+  },
+  "AT5": {
+    "defaults": [
+      5,
+      1,
+      10
+    ],
+    "polygon_sha256": "a1dbb30a6e357d27128323309a6e444983bc9610bcfd2bd23ea5f533fc2cf431"
+  },
+  "HTD_3mm": {
+    "defaults": [
+      3,
+      1.19,
+      9
+    ],
+    "polygon_sha256": "0aacfdc2fdf59c9b72718bef49a106052587cc82fd2847fc00be7459415ff513"
+  },
+  "HTD_5mm": {
+    "defaults": [
+      5,
+      1.73,
+      9
+    ],
+    "polygon_sha256": "2f12f9b50e8a5af3986495a957bf52f7d5df33a975a5e01eb255072c5224a7b3"
+  },
+  "HTD_8mm": {
+    "defaults": [
+      8,
+      2.64,
+      30
+    ],
+    "polygon_sha256": "ccfae7e37378b1e4f78fc62d70887f55aa010a59569fd89f53790cfcc7356c63"
+  },
+  "40DP": {
+    "defaults": [
+      2.073,
+      0.74,
+      4.7625
+    ],
+    "polygon_sha256": "3caf9ad56dad217ba9c408f0e97f1de3e3f3cc82a2ecb2fed1935036a1b72635"
+  },
+  "XL": {
+    "defaults": [
+      5.08,
+      1.03,
+      7.94
+    ],
+    "polygon_sha256": "fbcdb6b88a55aa61ed7b9503a152e8b30053ef77f02d411a38cb300e5aac4821"
+  },
+  "L": {
+    "defaults": [
+      9.525,
+      1.66,
+      19.05
+    ],
+    "polygon_sha256": "18431885bfbc0970cd34340208e11de153910458fd7ae33600f7b1e15e5b066c"
+  }
+}
